@@ -18,7 +18,7 @@
 
 <img src="http://microbit-challenges.readthedocs.io/en/latest/_images/thermometer.jpg" alt="" width="290" height="260">
 
-#My Findings Of The Micro:Bit Python Code
+# My Findings Of The Micro:Bit Python Code
 
 <dt>What did you find out about the compass code?</dt>
 
