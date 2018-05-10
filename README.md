@@ -20,8 +20,8 @@
 
 # My Findings Of The Micro:Bit Python Code
 
-<dt>What did you find out about the compass code?</dt>
+<dt>What did you find out about the accelerometer code?</dt>
 
-<dd> 
+<dd> While running the python code about the accelerometer I found out that movement of the x, y and z axis would show you 
 
 
